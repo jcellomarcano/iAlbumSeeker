@@ -8,5 +8,6 @@ data class AlbumResult(
     val primaryGenreName: String,
     val collectionPrice: Double,
     val currency: String,
-    val copyright: String
+    val copyright: String,
+    val artistName: String
 )
