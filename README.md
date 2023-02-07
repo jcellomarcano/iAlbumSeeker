@@ -28,6 +28,9 @@ This is a simple Android app that calls the iTunes Public API to create a list o
 - Install the [Java Development Kit (JDK) 17](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Install the [Android SDK](https://developer.android.com/studio/releases/sdk-tools)
 - Install [Gradle](https://gradle.org/install/)
+## Opportunity to upgrade 
+Create a Result sealed class to manage the different states of the network result and loading, Which will offer a better user experience
+# How to use
 
 ## Technical Requirements
 - [Kotlin 1.8.0](https://kotlinlang.org/docs/reference/whatsnew18.html) or higher
