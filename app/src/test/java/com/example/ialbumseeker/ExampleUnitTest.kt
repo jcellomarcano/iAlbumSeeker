@@ -17,7 +17,6 @@ import org.junit.runner.RunWith
 import org.junit.runners.JUnit4
 import org.mockito.Mockito.verify
 
-
 @RunWith(JUnit4::class)
 class AlbumViewModelTest {
 
