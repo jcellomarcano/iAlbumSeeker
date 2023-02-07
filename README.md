@@ -22,8 +22,9 @@ This is a simple Android app that calls the iTunes Public API to create a list o
 - On the UI side, Jetpack Compose
 - Unit tests
 - Uses Ktor and Dagger Hilt
-
-## How to use
+## Opportunity to upgrade 
+Create a Result sealed class to manage the different states of the network result and loading, Which will offer a better user experience
+# How to use
 
 1. Clone the repository to your local machine
 
